@@ -11,8 +11,13 @@ namespace PriyanshuPortfolio.Controllers
         //Nullable type parameter
         public string Index(int? id)
         {
-            return "id parameter ="+id;
+            if (id.HasValue)
+            {
+
+            }
+            return "id parameter =" + id;
         }
+        //query string type parameter
         public string Login(string userid,int password)
         {
             if (userid == "techpile" && password == 123)
