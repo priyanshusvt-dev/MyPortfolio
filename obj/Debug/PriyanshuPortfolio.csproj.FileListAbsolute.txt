@@ -74,6 +74,6 @@ D:\Priyanshu\PriyanshuPortfolio\PriyanshuPortfolio\bin\Antlr3.Runtime.pdb
 D:\Priyanshu\PriyanshuPortfolio\PriyanshuPortfolio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Priyanshu\PriyanshuPortfolio\PriyanshuPortfolio\obj\Debug\PriyanshuPortfolio.csproj.AssemblyReference.cache
 D:\Priyanshu\PriyanshuPortfolio\PriyanshuPortfolio\obj\Debug\PriyanshuPortfolio.csproj.CoreCompileInputs.cache
-D:\Priyanshu\PriyanshuPortfolio\PriyanshuPortfolio\obj\Debug\PriyanshuPortfolio.csproj.CopyComplete
 D:\Priyanshu\PriyanshuPortfolio\PriyanshuPortfolio\obj\Debug\PriyanshuPortfolio.dll
 D:\Priyanshu\PriyanshuPortfolio\PriyanshuPortfolio\obj\Debug\PriyanshuPortfolio.pdb
+D:\Priyanshu\PriyanshuPortfolio\PriyanshuPortfolio\obj\Debug\Priyansh.9A70F816.Up2Date

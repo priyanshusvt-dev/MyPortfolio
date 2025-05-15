@@ -28,6 +28,10 @@ namespace PriyanshuPortfolio.Controllers
             {
                 return "Unsucessful";
             }
-       }
+        }
+        public ViewResult FirstPage()
+        {
+            return View();
+        }
     }
 }
