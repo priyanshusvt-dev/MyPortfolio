@@ -33,5 +33,21 @@ namespace PriyanshuPortfolio.Controllers
         {
             return View();
         }
+        public ViewResult Services()
+        {
+            return View();
+        }
+        public ViewResult About()
+        {
+            return View();
+        }
+        public ViewResult Contactme()
+        {
+            return View();
+        }
+        public ViewResult Auth()
+        {
+            return View();
+        }
     }
 }
